@@ -32,7 +32,6 @@ Usa ejemplos y muestra el resultado esperado si peudes. Es útil tener en línea
 
  Puedes usar ejemplos de implementación si es un componente, una api como llamarlo (si está hecho deploy en algún lado, etc.) o si es una web directamente link de acceso al deploy, etc.
 
-
 ## API / Web or View structure
 
 Endpoints disponibles si el caso de una api, puede ser en formato lista, tabla, etc.
@@ -40,11 +39,11 @@ Endpoints disponibles si el caso de una api, puede ser en formato lista, tabla, 
 En el caso de ser una web/front definir brevemente las vistas o principales compontes de esta
 
 
-## Reconocimientos o Stack 
+## Stack y tecnologías 
 
 Stack tecnológico utilizado y porqué y si se quire reconocimientos a librerias u otros proyectos base del que se parte.
 
-## Roadmap and visuals
+## Roadmap and visuals (opcional)
 
 Explicación extra, imágenes, wireframes, mockups, GIFs, etc.
 
