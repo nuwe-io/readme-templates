@@ -57,5 +57,5 @@ Pon tu información básica de contacto y reconocmientos si es necesario
 ## Licence 
 
 Inlcuir la licéncia y el link a esta
-[NOMBRE](url)
+[MIT](https://opensource.org/licenses/MIT)
 
