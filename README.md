@@ -5,7 +5,7 @@ Templates para empezar a trabjar con de forma rápida utilizando los standar de 
 
 ```shell
     # Clone or install commands
-    npm clone []
+    npm clone https://github.com/nuwe-io/readme-templates
 ```
 
 ## Usage
