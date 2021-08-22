@@ -1,26 +1,31 @@
 
-# REPO / PROJECT NAME
+# PROJECT NAME
 
-[Algo de info extra si queréis sobre el reto que no este dentro de las otras secciones]
+Project_name: utilizar nombres que sean facilmente identificables para personas que puedan llegar a tener interés en ese modulo o que estén buscando algo similar.
 
-## Problema a solucionar
+> Breve descripción del proyecto, más o menos 15 - 20 palabras: 
+
+## Background | Problema a solucionar
 
 Exponer brevemente el problema expuesto (> 20 palabras )
 
+## Resultados y anlásis 
+
+Exponer y comentar los resultados obtenidos > 50 palabras (mín)
 
 ## Solución adoptada
 
 Eplicar porqué se escogido ese algoritmo/algoritmo/métodos adoptados y su solución. (> 30 palabras)
 
-## Resultados y anlásis
+## Installation
 
-Exponer y comentar los resultados obtenidos > 50 palabras (mín)
+Como utilzar el proyecto y empezar a trabajar con el
 
-## Contact & Author Info
+## Contact info | Not required | Recommended
 
 Incluir algo de info sobre contcto y el autor (si queréis poner background)
 
-## Licence 
+## License 
 
 Inlcuir la licéncia y el link a esta 
 
